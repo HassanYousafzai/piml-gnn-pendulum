@@ -1,7 +1,7 @@
 # PIML-GNN for Pendulum Dynamics
 
 ## Overview
-This repository implements a **Physics-Informed Graph Neural Network (PIML-GNN)** in PyTorch for simulating a constrained pendulum, enforcing **Differential Algebraic Equations (DAEs)** to model port-Hamiltonian dynamics. The project extends the Graph Neural Network framework from *Knowledge Graphs* (Hogan et al., 2021, Section 4.3) by integrating physics-informed constraints, aligning with Physics-Informed Machine Learning (PIML) for dynamic system simulation. Across multiple runs, the code consistently achieves a **physics loss of ~0.10–0.11** and **data loss of ~0.25–0.27** after 180 epochs, with visualizations demonstrating accurate predictions of position, momentum, and energy conservation.
+This repository implements a **Physics-Informed Graph Neural Network (PIML-GNN)** in PyTorch for simulating a constrained pendulum, enforcing **Differential Algebraic Equations (DAEs)** to model port-Hamiltonian dynamics. Across multiple runs, the code consistently achieves a **physics loss of ~0.10–0.11** and **data loss of ~0.25–0.27** after 180 epochs, with visualizations demonstrating accurate predictions of position, momentum, and energy conservation.
 
 This work supports my research in physics-informed machine learning, targeting applications in engineering (e.g., robotic control, vehicle dynamics).
 
