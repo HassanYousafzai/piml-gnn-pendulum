@@ -72,12 +72,8 @@ pip install torch-scatter torch-sparse -f https://data.pyg.org/whl/torch-2.0.0+c
 - Extend to other dynamic systems (e.g., fluid dynamics, electrical circuits) for broader impact.
 - Incorporate Retrieval-Augmented Generation (RAG) for physics literature integration.
 
-## Citation
-This project builds on:
-- Hogan, A., et al. (2021). *Knowledge Graphs*. Synthesis Lectures on Data, Semantics, and Knowledge.
-- My research: *Physics-Informed Machine Learning with Knowledge Graphs for Dynamic Systems*.
 
 ## Contact
 Hassan Mahmood Yousafzai  
 Email: hassan.yousafzai@gmail.com  
-Phone: +92 346 9099666
+
